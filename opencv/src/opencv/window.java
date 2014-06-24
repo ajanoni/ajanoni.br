@@ -4,7 +4,7 @@ import javax.swing.JFrame;
 
 import org.opencv.core.Mat;
 import org.opencv.highgui.VideoCapture;
-//teste
+//teste2
 public class window {
 	public static void main(String arg[]) {
 		// Load the native library.
